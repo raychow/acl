@@ -5,7 +5,7 @@
 ### [proxy_list] 代理列表
 
 [outbound_block_list]
-(^|\.)fra002.+nflxvideo\.net$
+.+fra002.+nflxvideo\.net$
 
 [proxy_list]
 (^|\.)youtube-nocookie\.com$
